@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xxssd-awsl，00年1月，99年12月
+- 👋 Hi, I’m @xxssd-awsl，00年1月，99年12月，working studying
 - 👀 I’m interested in 小姐姐
 - 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on ...
